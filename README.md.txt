@@ -18,5 +18,10 @@ Ações:
 	Verifiquei com git status
 	Dei commit com git commit -m "Etapa1"
 
+   Etapa 3:
+	Após escrever a etapa 2, usei git diff
+	com git diff consegui ver as alterações da etapa 1 para a etapa 2
+	Depois usei git status -> git add . -> git commit -m "Etapa-2" -> git status
+
 
 - Leandro Barbosa Pessoa Alves 13/06/2025
