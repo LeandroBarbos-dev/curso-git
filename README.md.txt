@@ -29,4 +29,7 @@ Ações:
 	Criei um novo arquivo chamado "Arquivo_secundario"
 	Agora vou fazer o commit dele junto com as novas auterações do README
 
+
+**Anotação: voltei para branch secundaria, não fiz merge, então ela esta desatualizada em ralação a main e não tem a etapa 5. o que acontece se eu fizer merge agora?
+
 - Leandro Barbosa Pessoa Alves 13/06/2025
