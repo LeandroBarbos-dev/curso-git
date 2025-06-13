@@ -23,5 +23,10 @@ Ações:
 	com git diff consegui ver as alterações da etapa 1 para a etapa 2
 	Depois usei git status -> git add . -> git commit -m "Etapa-2" -> git status
 
+   Etapa 4 - Brnchs (Branch secundaria)
+	Após fazer commit da etapa 3 passei para o proximo passo
+	Criei uma brench nova, Secundaria, usando git checkout -b Secundaria
+	Criei um novo arquivo chamado "Arquivo_secundario"
+	Agora vou fazer o commit dele junto com as novas auterações do README
 
 - Leandro Barbosa Pessoa Alves 13/06/2025
