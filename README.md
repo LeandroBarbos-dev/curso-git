@@ -29,8 +29,19 @@ Ações:
 	Criei um novo arquivo chamado "Arquivo_secundario"
 	Agora vou fazer o commit dele junto com as novas auterações do README
 
+
+**Anotação: voltei para branch secundaria, não fiz merge, então ela esta desatualizada em ralação a main e não tem a etapa 5. o que acontece se eu fizer merge agora?
+
+
    Etapa 5 - Merge (Branch main)
 	Após commit da etapa 4 fiz o murge na branch main com a secundaria, trazendo as modificações para branch principal
 	Criei um novo arquivo na branch main, vou dar commit e voltar para branch secundaria
+
+   Etapa 6 - Conflito (Branch secundaria)
+	Como escrito na anotação, fiz um murge na branch Secundaria
+	Os dois arquivos tinham altrações que o outro não possuia
+	Além disso, as auterações eram na mesma linha
+	Resultado: Um pequeno conflito
+	É simples de resolver, mas deve ser feito manualmente pelo usuario
 
 - Leandro Barbosa Pessoa Alves 13/06/2025
