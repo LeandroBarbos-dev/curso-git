@@ -39,9 +39,24 @@ Ações:
 
    Etapa 6 - Conflito (Branch secundaria)
 	Como escrito na anotação, fiz um murge na branch Secundaria
-	Os dois arquivos tinham altrações que o outro não possuia
+	Os dois arquivos tinham alterações que o outro não possuia
 	Além disso, as auterações eram na mesma linha
 	Resultado: Um pequeno conflito
 	É simples de resolver, mas deve ser feito manualmente pelo usuario
+
+  Etapa 7 - Github
+    Linkei o repositorio local com uma origin no github
+	aprendi pull, push, fork e pull request
+
+  Etapa 8 - VS code
+    Vou começar a usar o VS Code como o gerenciador e manipulador dos arquivos e seu terminal
+	tambem aprender a usar suas ferramentes que facitam nos comandaos
+
+  Etapa 9 - Bons modos e nomenclaturas
+    Agora aprendendo modelos de bons modos para usar o git
+	aprender nomenclaturas e metodos de organização
+	separar oas espaços de trabalhos com branchs
+	usar a branch develop
+	padronização de nomes: branchs e commits
 
 - Leandro Barbosa Pessoa Alves 13/06/2025
