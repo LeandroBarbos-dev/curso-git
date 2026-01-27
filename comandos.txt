@@ -19,7 +19,7 @@ git checkout (nome) - troca branch
 git merge secundaria - mesclar branchs atual com a de seu interesse
 git branch -  mostra as branchs
 git branch -D (nome) - deleta a branch
-
+git remote add origin https://github.com/seu-usuario/seu-repo.git - linka a um repositorio github
 
 
 
